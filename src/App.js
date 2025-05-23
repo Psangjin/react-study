@@ -10,6 +10,8 @@ import './App.css';
 // import Props02 from './study/Props02';
 // import Practice03 from './practice/practice03/Practice03';
 import NewsBlog from './newsblog/NewsBlog';
+import Practice04 from './practice/practice04/Practice04';
+
 
 function App() {
 
@@ -23,6 +25,7 @@ function App() {
   //return <Props02/>;
   //return <Practice03/>;
   return <NewsBlog/>;
+  //return <Practice04/>;
 
 
 
